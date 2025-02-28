@@ -1,0 +1,546 @@
+group,name,url,version
+Transcend Insights Inc.,Transcend Insights Inc.,http://0bf5383e.ngrok.io/healthdock/alpine/fhir,dstu2
+Transcend Insights Inc.,Transcend Insights Inc.,http://0bf5383e.ngrok.io/healthdock/alpine/fhir,stu3
+100.255.242.22,100.255.242.22,http://100.255.242.22/ms/api,dstu2
+104.197.124.46,http://104.197.124.46/api/v1,http://104.197.124.46/api/v1,dstu2
+104.197.124.46,http://104.197.124.46/api/v1,http://104.197.124.46/api/v1,stu3
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/,dstu2
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/,dstu2
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/,stu3
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/,stu3
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/metadata,dstu2
+104.197.124.46,104.197.124.46,http://104.197.124.46/api/v1/metadata,stu3
+Hygeiais,Hygeiais,http://104.197.87.76/,dstu2
+Hygeiais,Hygeiais,http://104.197.87.76/,stu3
+Hygeiais,Hygeiais,http://104.197.87.76/api/v1/,dstu2
+Hygeiais,Hygeiais,http://104.197.87.76/api/v1/,stu3
+http://106.69.113.150,Fhirbase,http://106.69.113.150,stu3
+http://106.69.113.150,DryFHIR,http://106.69.113.150,stu3
+107.1.216.200,107.1.216.200,http://107.1.216.200/GDFHIR,stu3
+107.1.216.200,107.1.216.200,http://107.1.216.200/GDFHIR/dstu2,stu3
+107.1.216.200,107.1.216.200,http://107.1.216.200/GDFHIR/dstu3,dstu2
+107.1.216.200,107.1.216.200,http://107.1.216.200/GDFHIR/dstu3,stu3
+107.1.216.200,107.1.216.200,http://107.1.216.200/GDFHIR/dstu3/metadata,stu3
+124.148.54.22,DryFHIR,http://124.148.54.22,dstu2
+124.148.54.22,124.148.54.22,http://124.148.54.22,stu3
+138.68.56.250,138.68.56.250,http://138.68.56.250,stu3
+159.203.137.57,159.203.137.57,http://159.203.137.57:8080/hapifhir,stu3
+159.203.137.57,Not provided,http://159.203.137.57:8080/hapifhir/baseDstu3,stu3
+159.203.137.57,159.203.137.57,http://159.203.137.57:8080/hapifhir/conformance?serverId=home&pretty=false,stu3
+184.73.159.225,Not provided,http://184.73.159.225/fhir,dstu2
+184.73.159.225,184.73.159.225,http://184.73.159.225/fhir/baseDstu2,dstu2
+Transcend Insights Inc.,193.80.212.101,http://193.80.212.101:8080/healthdock/alpine/fhir,dstu2
+Transcend Insights Inc.,193.80.212.101,http://193.80.212.101:8080/healthdock/alpine/fhir,stu3
+AEGIS,"AEGIS.net, Inc.",http://199.119.184.86/dstu2,dstu2
+AEGIS,"AEGIS.net, Inc.",http://199.119.184.86/dstu2,stu3
+34.193.83.197,Not provided,http://34.193.83.197/fhir,dstu2
+34.193.83.197,34.193.83.197,http://34.193.83.197/fhir,stu3
+34.193.83.197,Not provided,http://34.194.17.236/hapi-fhir-jpaserver-example/baseDstu2,dstu2
+34.199.101.175,34.199.101.175,http://34.199.101.175,dstu2
+34.199.101.175,34.199.101.175,http://34.199.101.175,stu3
+503e7e63,503e7e63,http://503e7e63.ngrok.io/hl/PHMClinic/fhir,dstu2
+503e7e63,503e7e63,http://503e7e63.ngrok.io/hl/PHMClinic/fhir,stu3
+52.22.98.192,Not provided,http://52.22.98.192:8080/FHIRServer/fhir,dstu2
+52.22.98.192,52.22.98.192,http://52.22.98.192:8080/FHIRServer/fhir/Patient?id=9128&_format=json,dstu2
+52.22.98.192,52.22.98.192,http://52.22.98.192:8080/FHIRServer/fhir/Patient?id=9128&_format=json,stu3
+52.22.98.192,52.22.98.192,http://52.22.98.192:8080/FHIRServer/fhir/Patient/9128,dstu2
+52.22.98.192,52.22.98.192,http://52.22.98.192:8080/FHIRServer/fhir/Patient/9128,stu3
+52.22.98.192,52.26.91.242,http://52.26.91.242,stu3
+Ontoserver,Ontoserver (dev),http://52.4.97.158:8080/ontoserver/resources/fhir,dstu2
+Ontoserver,Ontoserver (dev),http://52.4.97.158:8080/ontoserver/resources/fhir,stu3
+Ontoserver,"The Australian e-Health Research Centre, CSIRO",http://52.63.0.196:8080/fhir,stu3
+Ontoserver,ontoserver,http://52.63.0.196:9090/fhir,stu3
+52.72.172.54,52.72.172.54,http://52.72.172.54:8080/fhir,dstu2
+52.72.172.54,52.72.172.54,http://52.72.172.54:8080/fhir,stu3
+52.72.172.54,Not provided,http://52.72.172.54:8080/fhir/baseDstu2,stu3
+MiHIN,MiHIN,http://52.90.126.238:8080/fhir/baseDstu3,stu3
+Transcend Insights Inc.,Transcend Insights Inc.,http://709c9917.ngrok.io/hl/PHMClinic/fhir,dstu2
+Transcend Insights Inc.,Transcend Insights Inc.,http://709c9917.ngrok.io/hl/PHMClinic/fhir,stu3
+Transcend Insights Inc.,720d0555,http://720d0555.ngrok.io/healthdock,stu3
+Transcend Insights Inc.,720d0555,http://720d0555.ngrok.io/healthdock,dstu2
+Transcend Insights Inc.,720d0555,http://720d0555.ngrok.io/healthdock/alpine/fhir,stu3
+Transcend Insights Inc.,720d0555,http://720d0555.ngrok.io/healthdock/alpine/fhir,dstu2
+74.123.217.146,74.123.217.146,http://74.123.217.146,dstu2
+74.123.217.146,74.123.217.146,http://74.123.217.146:9000,dstu2
+74.123.217.146,74.123.217.146,http://74.123.217.146:9000/,dstu2
+8.8.8.8,8.8.8.8,http://8.8.8.8,dstu2
+8.8.8.8,8.8.8.8,http://8.8.8.8,stu3
+80.94.166.124,80.94.166.124,http://80.94.166.124/api/fhir,dstu2
+80.94.166.124,80.94.166.124,http://80.94.166.124/api/fhir,stu3
+SRDC,SRDC onFHIR DSTU2,http://95.9.71.171/fhir-1-0,dstu2
+SRDC,SRDC onFHIR 1.8.0,http://95.9.71.171/fhir-1-8-0,stu3
+NavHealth,NavHealth,http://afternoon-hollows-1588.herokuapp.com/api/fhir,dstu2
+NavHealth,NavHealth,http://afternoon-hollows-1588.herokuapp.com/api/fhir,stu3
+fhirbase,Fhirbase,http://aldeveloper.fwd.wf/fhir,stu3
+fhirbase,aldeveloper,http://aldeveloper.fwd.wf/fhir/metadata,stu3
+The Australian Digital Health Agency,The Australian Digital Health Agency,http://api.healthterminologies.gov.au/integration/v1/fhir/metadata,stu3
+Cerner,Cerner HPD,http://api.sandboxcernerdirect.com/hpd-service/api2,stu3
+SRDC,SRDC onFHIR 3.0.1,http://app.srdc.com.tr/fhir/stu3,stu3
+SRDC,SRDC Corp,http://app.srdc.com.tr/fhir/stu3,stu3
+SRDC,app,http://app.srdc.com.tr/power2dm/pds,stu3
+Transcend Insights Inc.,bdcbac43,http://bdcbac43.ngrok.io/healthdock/hl,dstu2
+Transcend Insights Inc.,bdcbac43,http://bdcbac43.ngrok.io/healthdock/hl,stu3
+Transcend Insights Inc.,Transcend Insights Inc.,http://bdcbac43.ngrok.io/healthdock/sjpc/fhir,dstu2
+Transcend Insights Inc.,Transcend Insights Inc.,http://bdcbac43.ngrok.io/healthdock/sjpc/fhir,stu3
+Blau,blau,http://blau.at.struktu.ro:8123,dstu2
+Blau,blau,http://blau.at.struktu.ro:8123,stu3
+Oridashi,Oridashi Best Practices,http://bp.oridashi.com.au,dstu2
+Oridashi,Oridashi Best Practices,http://bp.oridashi.com.au,stu3
+clinfhir,clinfhir,http://clinfhir.com,dstu2
+clinfhir,clinfhir,http://clinfhir.com,stu3
+,Not provided,http://continua.cloudapp.net/baseDstu2,stu3
+Genetica,Genetica,http://cortex1.centralus.cloudapp.azure.com/cortex/cortex1/oi/fhirbird,dstu2
+Genetica,Genetica,http://cortex1.centralus.cloudapp.azure.com/cortex/cortex1/oi/fhirbird,stu3
+Genetica,cortex1,http://cortex1.centralus.cloudapp.azure.com/cortex/cortex1/oi/fhirbird/metadata,dstu2
+crucible,crucible,http://crucible.com/ReachnetDAFRest/Patient,dstu2
+crucible,crucible,http://crucible.com/ReachnetDAFRest/Patient,stu3
+Hackensack UMC,csltst,http://csltst.hackensackumc.net/humc-server-v2/v2/fhir,dstu2
+Hackensack UMC,csltst,http://csltst.hackensackumc.net/humc-server-v2/v2/fhir,stu3
+NIH,VSAC,http://cts.nlm.nih.gov/fhir,stu3
+Transcend Insights Inc.,dd0138d2,http://dd0138d2.ngrok.io/healthdock/alpine/fhir,dstu2
+Transcend Insights Inc.,dd0138d2,http://dd0138d2.ngrok.io/healthdock/alpine/fhir,stu3
+,default-environment,http://default-environment.mhy4cxavn9.eu-west-1.elasticbeanstalk.com/hl7fhir,stu3
+IGNORE,To Be Deleted,http://deleted.nil,dstu2
+Oridashi,demo,http://demo.oridashi.com.au:8080,stu3
+Oridashi,Oridashi Demo,http://demo.oridashi.com.au:8290,dstu2
+Oridashi,Oridashi Demo,http://demo.oridashi.com.au:8290,stu3
+Furore,devapi,http://devapi.emdscloud.com,stu3
+Furore,Furore,http://devapi.emdscloud.com/fhir,stu3
+Furore,devapi,http://devapi.emdscloud.com/fhir,dstu2
+MEDITECH,MEDITECH,http://direct.meditech.com/FHIR/api2,dstu2
+MEDITECH,MEDITECH,http://direct.meditech.com/FHIR/api2,stu3
+dryfhir,dryfhir,http://dryfhir.ddns.net,stu3
+Furore,Not provided,http://ec2-184-73-159-225.compute-1.amazonaws.com/fhir,dstu2
+Furore,Furore,http://ec2-52-91-20-217.compute-1.amazonaws.com/fhir,dstu2
+Furore,Furore,http://ec2-52-91-20-217.compute-1.amazonaws.com/fhir,stu3
+Transcend Insights Inc.,ec4af4a4,http://ec4af4a4.ngrok.io/healthdock,dstu2
+Transcend Insights Inc.,ec4af4a4,http://ec4af4a4.ngrok.io/healthdock,stu3
+Transcend Insights Inc.,ec4af4a4,http://ec4af4a4.ngrok.io/healthdock/hl,dstu2
+Transcend Insights Inc.,ec4af4a4,http://ec4af4a4.ngrok.io/healthdock/hl,stu3
+ecqm,ecqm,http://ecqm.onfhir.com,stu3
+34.199.101.175,34.199.101.175,http://34.199.101.175,stu3
+Transcend Insights Inc.,f61be77e,http://f61be77e.ngrok.io/healthdock,dstu2
+Transcend Insights Inc.,f61be77e,http://f61be77e.ngrok.io/healthdock,stu3
+Transcend Insights Inc.,Transcend Insights Inc.,http://f61be77e.ngrok.io/healthdock/alpine/fhir,dstu2
+Transcend Insights Inc.,Transcend Insights Inc.,http://f61be77e.ngrok.io/healthdock/alpine/fhir,stu3
+Transcend Insights Inc.,f61be77e,http://f61be77e.ngrok.io/healthdock/hl,dstu2
+Transcend Insights Inc.,f61be77e,http://f61be77e.ngrok.io/healthdock/hl,stu3
+Transcend Insights Inc.,Transcend Insights Inc.,http://fce71df8.ngrok.io/healthdock/alpine/fhir,dstu2
+Transcend Insights Inc.,Transcend Insights Inc.,http://fce71df8.ngrok.io/healthdock/alpine/fhir,stu3
+Transcend Insights Inc.,Transcend Insights Inc.,http://fhir-2.transcendinsights.com/hl/alpine/fhir,stu3
+Nprogram,NProgram FHIR,http://fhir-dstu2-nprogram.azurewebsites.net,dstu2
+Nprogram,NProgram FHIR,http://fhir-dstu2-nprogram.azurewebsites.net,stu3
+Cerner,Cerner Open,http://fhir-open.stagingcernerpowerchart.com/stu3/a758f80e-aa74-4118-80aa-98cc75846c76,stu3
+Apigee,Apigee FHIR Test,http://fhir-test.apigee.net/v2,dstu2
+Apigee,Apigee FHIR Test,http://fhir-test.apigee.net/v2,stu3
+CareEvolution,fhir.careevolution.com,http://fhir.careevolution.com/apitest,dstu2
+CareEvolution,CareEvolution,http://fhir.careevolution.com/apitest/fhir,dstu2
+CareEvolution,CareEvolution,http://fhir.careevolution.com/apitest/fhir,stu3
+CareEvolution,fhir.careevolution.com,http://fhir.careevolution.com/Master.Adapter1.WebClient/api/fhir,dstu2
+CareEvolution,CareEvolution,http://fhir.careevolution.com/Master.Adapter1.WebClient/api/fhir,dstu2
+CareEvolution,fhir.careevolution.com,http://fhir.careevolution.com/Master.Adapter1.WebClient/api/fhir,stu3
+CareEvolution,CareEvolution,http://fhir.careevolution.com/Master.Adapter1.WebClient/api/fhir,stu3
+Apelon,fhir.ext.apelon.com,http://fhir.ext.apelon.com/dtsserverws/fhir,stu3
+HealthIntersections,fhir.healthintersections.com.au,"http://fhir.healthintersections.com.au/open,",dstu2
+HealthIntersections,fhir.healthintersections.com.au,"http://fhir.healthintersections.com.au/open,",stu3
+HealthIntersections,fhir.healthintersections.com.au,"http://fhir.healthintersections.com.au/open,2",dstu2
+HealthIntersections,fhir.healthintersections.com.au,"http://fhir.healthintersections.com.au/open,2",stu3
+HL7,HL7 Fundamentals,http://fhir.hl7fundamentals.org/baseDstu3,stu3
+i2b2,i2b2 MGH,http://fhir.i2b2.org/srv-dstu2-0.3/api/open,dstu2
+i2b2,i2b2 MGH,http://fhir.i2b2.org/srv-dstu2-0.3/api/open,stu3
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open,dstu2
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open,dstu2
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open,stu3
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open,stu3
+i2b2,i2b2/MGH,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,dstu2
+i2b2,i2b2/MGH,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,dstu2
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,dstu2
+i2b2,i2b2/MGH,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,stu3
+i2b2,fhir.i2b2.org,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,stu3
+i2b2,i2b2/MGH,http://fhir.i2b2.org/srv-dstu21-0.3/api/open/,stu3
+Mirth,Mirth,http://fhir.mirthcorp.com/dstu2,dstu2
+Mirth,Mirth,http://fhir.mirthcorp.com/dstu2,stu3
+Confluence,fhir.nestvision.com,http://fhir.nestvision.com,stu3
+Cerner,fhir.sandboxcernerpowerchart.com,http://fhir.sandboxcernerpowerchart.com/dstu2,dstu2
+Cerner,fhir.sandboxcernerpowerchart.com,http://fhir.sandboxcernerpowerchart.com/dstu2,stu3
+Cerner,Cerner,http://fhir.stagingcernerpowerchart.com/stu3/a758f80e-aa74-4118-80aa-98cc75846c76,stu3
+VA,VA Cloud - HAPI on FHIR,http://fhir.vacloud.us:8080/hapi_fhir/baseDstu2,dstu2
+VA,VA Cloud - HAPI on FHIR,http://fhir.vacloud.us:8080/hapi_fhir/baseDstu2,stu3
+VA,fhir.vacloud.us,http://fhir.vacloud.us:8080/hapi_fhir/baseDstu3,stu3
+HealthIntersections,fhir2.healthintersections.com.au,http://fhir2.healthintersections.com.au,dstu2
+HealthIntersections,HealthIntersections,http://fhir2.healthintersections.com.au/open,dstu2
+HealthIntersections,fhir2.healthintersections.com.au,http://fhir2.healthintersections.com.au/open/metadata,dstu2
+HealthIntersections,fhir2.healthintersections.com.au,http://fhir2.healthintersections.com.au/open/metadata,stu3
+HealthIntersections,fhir2.healthintersections.com.au,http://fhir2.healthintersections.com.au/open/Patient,dstu2
+HealthIntersections,fhir2.healthintersections.com.au,http://fhir2.healthintersections.com.au/open/Patient,stu3
+HealthIntersections,fhir3.healthintersections.com.au,http://fhir3.healthintersections.com.au,stu3
+HealthIntersections,Health Intersections,http://fhir3.healthintersections.com.au/closed,dstu2
+HealthIntersections,Health Intersections,http://fhir3.healthintersections.com.au/closed,stu3
+HealthIntersections,HealthIntersections,http://fhir3.healthintersections.com.au/open,stu3
+fhirdev01.solutions-it,fhirdev01,http://fhirdev01.solutions-it.org:8080/dod-restful-server/fhir,dstu2
+fhirdev01.solutions-it,fhirdev01,http://fhirdev01.solutions-it.org:8080/dod-restful-server/fhir,stu3
+fhirdev01.solutions-it,Testing Secure Hapi,http://fhirdev01.solutions-it.org:8080/secure-hapi-example/fhir,dstu2
+fhirdev01.solutions-it,Testing Secure Hapi,http://fhirdev01.solutions-it.org:8080/secure-hapi-example/fhir,stu3
+Health Samurai,fhirplace,http://fhirplace.health-samurai.io,dstu2
+Health Samurai,fhirplace,http://fhirplace.health-samurai.io,stu3
+HealthIT,fhirprod.direct.sitenv.org,http://fhirprod.direct.sitenv.org/hapi-fhir/fhir,dstu2
+HealthIT,fhirprod.direct.sitenv.org,http://fhirprod.direct.sitenv.org/hapi-fhir/fhir,stu3
+HealthIT,fhirprod.sitenv.org,http://fhirprod.sitenv.org,dstu2
+HealthIT,fhirprod.sitenv.org,http://fhirprod.sitenv.org,stu3
+Kanta,fhirsandbox.kanta.fi,http://fhirsandbox.kanta.fi/kanta-phr-sandbox/baseDstu2,dstu2
+Kanta,fhirsandbox.kanta.fi,http://fhirsandbox.kanta.fi/kanta-phr-sandbox/baseDstu2,stu3
+Kanta,fhirsandbox.kanta.fi,http://fhirsandbox.kanta.fi/kanta-phr-sandbox/baseDstu3,stu3
+mybluemix,Not provided,http://fhirserver.mybluemix.net/fhir,dstu2
+b12x,Not provided,http://fhirtest.b12x.org/baseDstu3,stu3
+HealthIT,fhirtest.direct.sitenv.org,http://fhirtest.direct.sitenv.org/hapi-resprint/fhir,dstu2
+HealthIT,fhirtest.direct.sitenv.org,http://fhirtest.direct.sitenv.org/hapi-resprint/fhir,stu3
+HealthIT,fhirtest.sitenv.org,http://fhirtest.sitenv.org:8080/hapi/fhir,dstu2
+HealthIT,fhirtest.sitenv.org,http://fhirtest.sitenv.org:8080/hapi/fhir,stu3
+HealthIT,fhirtest.sitenv.org,http://fhirtest.sitenv.org:8080/hapi/fhir/,dstu2
+HealthIT,fhirtest.sitenv.org,http://fhirtest.sitenv.org:8080/hapi/fhir/,stu3
+HAPI,fhirtest.uhn.ca,http://fhirtest.uhn.ca,dstu2
+HAPI,fhirtest.uhn.ca,http://fhirtest.uhn.ca,stu3
+HAPI,HAPI DSTU1,http://fhirtest.uhn.ca/baseDstu1,dstu2
+HAPI,HAPI DSTU1,http://fhirtest.uhn.ca/baseDstu1,stu3
+HAPI,fhirtest.uhn.ca,http://fhirtest.uhn.ca/baseDstu1/Patient/19/_history/2?_format=json&_pretty=true,stu3
+HAPI,HAPI,http://fhirtest.uhn.ca/baseDstu2,dstu2
+HAPI,Not provided,http://fhirtest.uhn.ca/baseDstu2,stu3
+HAPI,fhirtest.uhn.ca,http://fhirtest.uhn.ca/baseDstu2/DiagnosticReport,dstu2
+HAPI,HAPI / University Health Network STU3,http://fhirtest.uhn.ca/baseDstu3,stu3
+HAPI,qaz-rispacs,http://fhirtest.uhn.ca/baseDstu3,dstu2
+HAPI,HAPI,http://fhirtest.uhn.ca/baseDstu3,stu3
+HAPI,fhirtest.uhn.ca,http://fhirtest.uhn.ca/resource?serverId=home_21&pretty=true&resource=Consent#tab-queries,stu3
+IGNORE,Foo,http://foo.bar.xcom,stu3
+IGNORE,Foo,http://foo.bar.xcom,stu3
+Gelatine,gelatine,http://gelatine.stoic.nz/Fhir,stu3
+IGNORE,google,http://google.com,dstu2
+IGNORE,google,http://google.com,stu3
+gpconnect-uat,Not provided,http://gpconnect-uat.answerappcloud.com/fhir,dstu2
+gpconnect-uat,gpconnect-uat,http://gpconnect-uat.answerappcloud.com/fhir,dstu2
+gpconnect-uat,gpconnect-uat,http://gpconnect-uat.answerappcloud.com/fhir,dstu2
+gpconnect-uat,gpconnect-uat,http://gpconnect-uat.answerappcloud.com/fhir,stu3
+gpconnect-uat,gpconnect-uat,http://gpconnect-uat.answerappcloud.com/fhir,stu3
+gpconnect-uat,Not provided,http://gpconnect-uat.answerappcloud.com/fhir,stu3
+medicloud,hapi,http://hapi.medicloud.eu-gb.mybluemix.net,stu3
+medicloud,hapi,http://hapi.medicloud.eu-gb.mybluemix.net/baseDstu2,stu3
+Hygeiais,Hygeiais FHIR Server [STU3],http://healthapi-dev.hygeiais.com/fhir/stu3/,dstu2
+Hygeiais,Hygeiais FHIR Server [STU3],http://healthapi-dev.hygeiais.com/fhir/stu3/,stu3
+Hygeiais,healthapi,http://healthapi.hygeiais.com/api/v1,stu3
+Hygeiais,Hygeiais,http://healthapi.hygeiais.com/api/v1/,dstu2
+Hygeiais,Hygeiais,http://healthapi.hygeiais.com/api/v1/,stu3
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir,dstu2
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir,stu3
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir/Patient/234234234,dstu2
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir/Patient/234234234,stu3
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir/Practitioner,dstu2
+Hackensack UMC,humcdev1,http://humcdev1.cloudapp.net:8080/humc-server/fhir/Practitioner,stu3
+e-imo,e-imo terminology,http://implementation.e-imo.com/fhir/api/v1,stu3
+PatientsFirst,PatientsFirst,http://its.patientsfirst.org.nz/RestService.svc/Terminz,stu3
+Lifen,lifen,http://lifen.fr/fhir,stu3
+Oridashi,Oridashi Medical Director,http://md.oridashi.com.au,dstu2
+Oridashi,Oridashi Medical Director,http://md.oridashi.com.au,stu3
+ESAC,ESAC Measure Server,http://measure.eval.kanvix.com,stu3
+ESAC,measure,http://measure.eval.kanvix.com/cql-measure-processor/baseDstu3,stu3
+IGNORE,medicity,http://medicity.com,dstu2
+IGNORE,medicity,http://medicity.com,stu3
+Medtasker,Medtasker,http://medtasker-backend-stg.elasticbeanstalk.com,dstu2
+Medtasker,Medtasker,http://medtasker-backend-stg.elasticbeanstalk.com,stu3
+Medview,medviewfhirserverapi-int,http://medviewfhirserverapi-int.azurewebsites.net,dstu2
+Pele,pele,http://meteor-on-fhir.meteorapp.com/,stu3
+Pele,Pentasyllabic Studios,http://meteor-on-fhir.meteorapp.com/fhir-1.6.0,dstu2
+Pele,meteor-on-fhir,http://meteor-on-fhir.meteorapp.com/fhir-1.6.0,stu3
+Pele,meteor-on-fhir,http://meteor-on-fhir.meteorapp.com/fhir-3.0.0,stu3
+myfhirserver,myfhirserver,http://myfhirserver.com,stu3
+TATRC,nat-p2,http://nat-p2.esp.tatrc.org/dod-restful-server/open/fhir,dstu2
+NavHealth,navhealth,http://navhealth.com/api/fhir,dstu2
+NavHealth,navhealth,http://navhealth.com/api/fhir,stu3
+NProgram,NProgram,http://nprogram.azurewebsites.net,dstu2
+NProgram,NProgram,http://nprogram.azurewebsites.net,stu3
+ns523561,ns523561,http://ns523561.ip-158-69-227.net/Claim,dstu2
+ns523561,ns523561,http://ns523561.ip-158-69-227.net/Claim,stu3
+Ontoserver,"The Australian e-Health Research Centre, CSIRO",http://ontoserver.csiro.au/baltimore,stu3
+Ontoserver,ontoserver,http://ontoserver.csiro.au/fhir,dstu2
+Ontoserver,ontoserver,http://ontoserver.csiro.au/fhir,stu3
+Ontoserver,"The Australian e-Health Research Centre, CSIRO",http://ontoserver.csiro.au/stu3,stu3
+Paragon,Paragon-Argonaut,http://paragonargonautfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/DSTU2,dstu2
+Paragon,Paragon-Argonaut,http://paragonargonautfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/DSTU2,stu3
+Paragon,paragonargonautfhirwebapp,http://paragonargonautfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/dstu2,dstu2
+Paragon,paragondevfhirwebapp,http://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net,stu3
+Paragon,paragondevfhirwebapp,http://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/dstu2,dstu2
+Paragon,paragondevfhirwebapp,http://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/dstu2,stu3
+VA,Not provided,http://pgdfhir.vamobile.us/fhir,dstu2
+VA,VA Mobile - PGD on FHIR,http://pgdfhir.vamobile.us/fhir/metadata,dstu2
+VA,VA Mobile - Patient Generated Data on FHIR (Dev),http://pgdfhirdev.vamobile.us/fhir,dstu2
+VA,Not provided,http://pgdonfhir.vamobile.us/fhir,dstu2
+Polaris,polaris,http://polaris.i3l.gatech.edu:8080/fhir-omopv5,stu3
+Polaris,polaris,http://polaris.i3l.gatech.edu:8080/gt-fhir-webapp/home?encoding=null&pretty=null,dstu2
+Polaris,polaris,http://polaris.i3l.gatech.edu:8080/gt-fhir-webapp/home?encoding=null&pretty=null,stu3
+PyroHealth,PyroHealth.net,http://pyrohealth.net/test/stu3/fhir,stu3
+qaz-rispacs,qaz-rispacs,http://qaz-rispacs.canadacentral.cloudapp.azure.com/api/fhir,stu3
+qaz-rispacs,qaz-rispacs,http://qaz-rispacs.canadacentral.cloudapp.azure.com/api/v3/fhir,stu3
+Transcend Insights Inc.,rahulsom,http://rahulsom.ngrok.com/healthdock/alpine/fhir/,dstu2
+Transcend Insights Inc.,rahulsom,http://rahulsom.ngrok.com/healthdock/alpine/fhir/,stu3
+RelayHealth,RelayHealth,http://rhc-fhir-dev.cloudapp.net,stu3
+JBS InteropX,Test01,http://sdsdemo2.jbsinternational.com/SDC/rest/fhir,dstu2
+JBS InteropX,JBS InteropX QA,http://sdsdemo2.jbsinternational.com/SDC/rest/fhir,stu3
+Almerys,Almerys FHIR,http://services.fhir.almerys.com/fhir-services/resources/api,dstu2
+Almerys,Almerys FHIR,http://services.fhir.almerys.com/fhir-services/resources/api,stu3
+IGNORE,skavacrucible,http://skavacrucible.com,stu3
+Furore,spark-dsstu2,http://spark-dsstu2.furore.com/fhir,stu3
+Furore,spark-dsstu2,http://spark-dsstu2.furore.com/fhir,dstu2
+Furore,Spark DSTU2,http://spark-dstu2.furore.com/fhir,dstu2
+Furore,Spark DSTU2,http://spark-dstu2.furore.com/fhir,stu3
+Furore,spark-dstu3,http://spark-dstu3.furore.com/fhir,stu3
+Furore,spark,http://spark.furore.com,dstu2
+Furore,spark,http://spark.furore.com,stu3
+Furore,Spark,http://spark.furore.com/fhir,dstu2
+Furore,Spark,http://spark.furore.com/fhir,stu3
+Furore,spark,http://spark.furore.com/fhir/metadata,stu3
+Furore,spark,http://spark.furore.com/fhir/Patient,stu3
+Furore,Furore,http://sparkfhirapi-spark-test.azurewebsites.net/fhir,stu3
+HealthConnex,HealthConnex (open),http://sqlonfhir-dstu2.azurewebsites.net/fhir,dstu2
+Telstra Health,Telstra Health,http://sqlonfhir-stu3.azurewebsites.net/fhir,stu3
+Helio,Helio Software STU3,http://stu3.heliossoftware.com:8080,stu3
+SyntheticMass,syntheticmass,http://syntheticmass.mitre.org/fhir,stu3
+PyroHealth,PyroHealth.net,http://test.stu3.pyrohealth.net/FhirApi,stu3
+PyroHealth,PyroHealth.net,http://test.stu3.pyrohealth.net/fhirapi,stu3
+Allscripts,Allscripts,http://twdev.open.allscripts.com/FHIRAnon,stu3
+followmyhealth,uat-fhir,http://uat-fhir.followmyhealth.com/api,dstu2
+followmyhealth,uat-fhir,http://uat-fhir.followmyhealth.com/api,stu3
+VA,Dept Veterans Affairs,http://vha.edmondsci.com:8080/hapi-fhir/baseDstu2,dstu2
+VA,Dept Veterans Affairs,http://vha.edmondsci.com:8080/hapi-fhir/baseDstu2,stu3
+VA,vha,http://vha.edmondsci.com:8080/hapi-fhir/baseDstu3,stu3
+McKesson,vitalh-007,http://vitalh-007.oc.mckesson.com:5002/FHIRServer,dstu2
+McKesson,vitalh-007,http://vitalh-007.oc.mckesson.com:5002/FHIRServer,stu3
+Furore,Furore Health Informatics,http://vonk.furore.com,stu3
+Epic,vs-icx-tde03,http://vs-icx-tde03.epic.com/Interconnect-TDE119Dev/api/FHIR/DSTU2,dstu2
+Epic,vs-icx-tde03,http://vs-icx-tde03.epic.com/Interconnect-TDE119Dev/api/FHIR/DSTU2,stu3
+Epic,vs-icx-tde03,http://vs-icx-tde03.epic.com/Interconnect-TDE119Dev/api/FHIR/DSTU2/AllergyIntolerance?patient=TZ0zTK7Ys15j195Xjm-rvJwEVlxsD5NBDo87wtnrZs0IB,dstu2
+Epic,vs-icx-tde03,http://vs-icx-tde03.epic.com/Interconnect-TDE119Dev/api/FHIR/DSTU2/AllergyIntolerance?patient=TZ0zTK7Ys15j195Xjm-rvJwEVlxsD5NBDo87wtnrZs0IB,stu3
+AEGIS,AEGIS WildFHIR,http://wildfhir.aegis.net/dstu2,dstu2
+AEGIS,AEGIS WildFHIR DSTU 2.1,http://wildfhir.aegis.net/fhir,dstu2
+AEGIS,AEGIS WildFHIR DSTU 2.1,http://wildfhir.aegis.net/fhir,stu3
+AEGIS,"AEGIS.net, Inc.",http://wildfhir.aegis.net/fhir1-2-0,dstu2
+AEGIS,AEGIS WildFHIR STU3 Ballot,http://wildfhir.aegis.net/fhir1-6-0,stu3
+AEGIS,AEGIS Wildfhir FHIR 1-8-0,http://wildfhir.aegis.net/fhir1-8-0,stu3
+AEGIS,wildfhir,http://wildfhir.aegis.net/fhir3-0-0,stu3
+AEGIS,Aegis WildFHIR 3-0-1,http://wildfhir.aegis.net/fhir3-0-1,stu3
+AEGIS,AEGIS WildFHIR DSTU 2.0,http://wildfire.aegis.net/dstu2,dstu2
+AEGIS,AEGIS WildFHIR DSTU 2.0,http://wildfire.aegis.net/dstu2,stu3
+Almerys,Almerys,http://www.demo.almerys.com/connectathon/server,stu3
+IGNORE,www,http://www.google.com,stu3
+IGNORE,www,http://www.google.com/fhir,dstu2
+AEGIS,AEGIS Argonaut,https://199.119.184.86/dstu2,dstu2
+AEGIS,AEGIS Argonaut,https://199.119.184.86/dstu2,stu3
+52.0.53.185,52.0.53.185,https://52.0.53.185/hl/PHMClinic/fhir,dstu2
+52.0.53.185,52.0.53.185,https://52.0.53.185/hl/PHMClinic/fhir,stu3
+54.86.121.13,54.86.121.13,https://54.86.121.13/hl/HLEMR/fhir,dstu2
+54.86.121.13,54.86.121.13,https://54.86.121.13/hl/HLEMR/fhir,stu3
+NavHealth,NavHealth,https://afternoon-hollows-1588.herokuapp.com/api/fhir,dstu2
+NavHealth,NavHealth,https://afternoon-hollows-1588.herokuapp.com/api/fhir,stu3
+NavHealth,NavHealth,https://afternoon-hollows-1588.herokuapp.com/api/fhir/,dstu2
+NavHealth,NavHealth,https://afternoon-hollows-1588.herokuapp.com/api/fhir/,stu3
+AthenaHealth,api,https://api.athenahealth.com/preview1/195900/1/fhir/dstu2,dstu2
+AthenaHealth,api,https://api.athenahealth.com/preview1/195900/1/fhir/dstu2,stu3
+AthenaHealth,api,https://api.athenahealth.com/preview1/195900/1/fhir/dstu2/Patient,dstu2
+AthenaHealth,api,https://api.athenahealth.com/preview1/195900/1/fhir/dstu2/Patient,stu3
+RelayHealth Stage,RelayHealth Stage,https://api.stage.data.relayhealth.com/rhc/fhirservice,dstu2
+RelayHealth Stage,RelayHealth Stage,https://api.stage.data.relayhealth.com/rhc/fhirservice,stu3
+HSP Consortium,HSPC Consortium,https://api3.hspconsortium.org/fhirconnect14/open,stu3
+fhir widget one Template,fhir widget one Template,https://arcane-tor-1737.herokuapp.com,dstu2
+fhir widget one Template,fhir widget one Template,https://arcane-tor-1737.herokuapp.com,stu3
+Health Samurai/Aidbox,Health Samurai/Aidbox,https://argonaut.aidbox.io/fhir,dstu2
+Health Samurai/Aidbox,Health Samurai/Aidbox,https://argonaut.aidbox.io/fhir,stu3
+HealthIntersections,Argonaut Reference Server,https://argonaut.healthintersections.com.au/closed,dstu2
+HealthIntersections,Argonaut Reference Server,https://argonaut.healthintersections.com.au/closed,stu3
+InterSystems,InterSystems Corp.,https://argonaut.intersystems.com/fhir,dstu2
+InterSystems,argonaut,https://argonaut.intersystems.com/fhir/,dstu2
+Intersystems,InterSystems HealthShare,https://argonaut.intersystems.com/fhircat13,stu3
+InterSystems,InterSystems Argonaut,https://argonaut.intersystems.com/fhiroauth2,dstu2
+IGNORE,beta,https://beta.projectcrucible.org/servers/56d9cb63637275098d000000,stu3
+Allscripts,cloud,https://cloud.allsciptsunity.com/FHIR,stu3
+Allscripts,Allscripts Argonaut,https://cloud.allscriptsunity.com/FHIR,dstu2
+Allscripts,Allscripts Argonaut,https://cloud.allscriptsunity.com/FHIR,stu3
+Allscripts,cloud,https://cloud.allscriptsunity.com/FHIR/metadata,dstu2
+Allscripts,cloud,https://cloud.allscriptsunity.com/FHIR/metadata,stu3
+Allscripts,Allscripts,https://cloud.allscriptsunity.com/FHIRAnon,stu3
+IGNORE,collaborate,https://collaborate.mitre.org,dstu2
+IGNORE,collaborate,https://collaborate.mitre.org,stu3
+Hackensack UMC,hackensackumc-test,https://csltst.hackensackumc.net:8080/humc-server-v2/v2/fhir,dstu2
+Hackensack UMC,hackensackumc-test,https://csltst.hackensackumc.net:8080/humc-server-v2/v2/fhir,stu3
+Hackensack UMC,csltst,https://csltst.hackensackumc.net/humc-server-v2/v2/fhir/Patient,dstu2
+Hackensack UMC,csltst,https://csltst.hackensackumc.net/humc-server-v2/v2/fhir/Patient,stu3
+HiOH,demo,https://demo.hioh.org/srv-dstu2-0.3/api,dstu2
+HiOH,demo,https://demo.hioh.org/srv-dstu2-0.3/api,stu3
+hssocialcare,dev05,https://dev05.hssocialcare.com/v1/Login?,stu3
+VA,VA Cloud - VistA Exchange (VX),https://ehmp.vaftl.us:443/resource/fhir/,dstu2
+VA,VA Cloud - VistA Exchange (VX),https://ehmp.vaftl.us:443/resource/fhir/,stu3
+VA,VA Cloud - VistA Exchange (VX),https://ehmp.vaftl.us/resource/fhir,dstu2
+VA,VA Cloud - VistA Exchange (VX),https://ehmp.vaftl.us/resource/fhir,stu3
+Epic,Epic 2015,https://epicproxyn.ochsner.org/FHIR/api/FHIR/DSTU2,dstu2
+SMART Health IT,SMART on FHIR Secure Server,https://fhir-api-dstu2.smarthealthit.org,dstu2
+SMART Health IT,SMART on FHIR Secure Server,https://fhir-api-dstu2.smarthealthit.org,stu3
+SMART Health IT,SMART on FHIR,https://fhir-api.smarthealthit.org,stu3
+SMART Health IT,fhir-dstu2.smarthealthit.org,https://fhir-dstu2.smarthealthit.org/apps/fhir-demo/app,stu3
+Cerner,Cerner - Secure Sandbox (DSTU 2 Final),https://fhir-ehr.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca,dstu2
+SMART Health IT,SMART on FHIR Open,https://fhir-open-api-dstu2.smarthealthit.org,dstu2
+SMART Health IT,SMART on FHIR Open,https://fhir-open-api-dstu2.smarthealthit.org,stu3
+SMART Health IT,fhir-open-api-dstu3.smarthealthit.org,https://fhir-open-api-dstu3.smarthealthit.org,stu3
+Cerner,Cerner - Open Sandbox (DSTU 2 Final),https://fhir-open.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca,dstu2
+Cerner,DeleteMe: Old Cerner Sandbox,https://fhir-open.sandboxcerner.com/dstu2/d075cf8b-3261-481d-97e5-ba6c48d3b41f/,dstu2
+Cerner,fhir-open.sandboxcernerpowerchart.com,https://fhir-open.sandboxcernerpowerchart.com/dstu2,dstu2
+Cerner,fhir-open.sandboxcernerpowerchart.com,https://fhir-open.sandboxcernerpowerchart.com/dstu2,stu3
+Cerner,Cerner - Open Sandbox (DSTU 2 Final),https://fhir-open.sandboxcernerpowerchart.com/dstu2/d075cf8b-3261-481d-97e5-ba6c48d3b41f,stu3
+Cerner,Cerner,https://fhir-open.sandboxcernerpowerchart.com/dstu2/d075cf8b-3261-481d-97e5-ba6c48d3b41f/,dstu2
+Cerner,Cerner,https://fhir-open.sandboxcernerpowerchart.com/dstu2/d075cf8b-3261-481d-97e5-ba6c48d3b41f/,stu3
+Cerner,DELETEME: Cerner - Deprecated may 2015 sandbox,https://fhir-open.sandboxcernerpowerchart.com/may2015/d075cf8b-3261-481d-97e5-ba6c48d3b41f,dstu2
+Cerner,Cerner - Open Sandbox (DSTU 2 May Ballot),https://fhir-open.sandboxcernerpowerchart.com/may2015/d075cf8b-3261-481d-97e5-ba6c48d3b41f,stu3
+Cerner,Cerner STU3,https://fhir-open.stagingcernerpowerchart.com/stu3/a758f80e-aa74-4118-80aa-98cc75846c76,stu3
+Applied Informatics,Applied Informatics,https://fhir.appliedinformaticsinc.com,dstu2
+Applied Informatics,Applied Informatics,https://fhir.appliedinformaticsinc.com,stu3
+CareEvolution,fhir.careevolution.com,https://fhir.careevolution.com/apitest/FHIR,stu3
+CareEvolution,CareEvolution,https://fhir.careevolution.com/apitest/FHIR,dstu2
+Hackensack UMC,fhir.hackensackumc.net,https://fhir.hackensackumc.net:8080/humc-server/fhir,dstu2
+Hackensack UMC,fhir.hackensackumc.net,https://fhir.hackensackumc.net:8080/humc-server/fhir,stu3
+Hackensack UMC,HackensackUMC,https://fhir.hackensackumc.net/argonaut,dstu2
+Hackensack UMC,HackensackUMC,https://fhir.hackensackumc.net/argonaut,stu3
+i2b2,i2b2,https://fhir.i2b2.org/open,dstu2
+i2b2,i2b2,https://fhir.i2b2.org/open,stu3
+i2b2,fhir.i2b2.org,https://fhir.i2b2.org/srv-dstu2-0.3/api/openn,dstu2
+i2b2,fhir.i2b2.org,https://fhir.i2b2.org/srv-dstu2-0.3/api/openn,stu3
+mycaremanager,mycaremanager,https://fhir.mycaremanager.com.au,dstu2
+mycaremanager,mycaremanager,https://fhir.mycaremanager.com.au,stu3
+NHS,NHS Digital FHIR Reference Server,https://fhir.nhs.uk,dstu2
+NHS,fhir.nhs.uk,https://fhir.nhs.uk,stu3
+Nortal,Nortal FHIR,https://fhir.nortal.com/blaze,dstu2
+Nortal,Nortal FHIR,https://fhir.nortal.com/blaze,stu3
+Cerner,Cerner - Secure Sandbox (DSTU 2 Final),https://fhir.sandboxcernerpowerchart.com/dstu2/d075cf8b-3261-481d-97e5-ba6c48d3b41f,stu3
+Cerner,Cerner DSTU2,https://fhir.sandboxcernerpowerchart.com/dstu2/open/d075cf8b-3261-481d-97e5-ba6c48d3b41f,dstu2
+Cerner,Cerner DSTU2,https://fhir.sandboxcernerpowerchart.com/dstu2/open/d075cf8b-3261-481d-97e5-ba6c48d3b41f,stu3
+HealthIT,fhir.sitenv.org,https://fhir.sitenv.org/open/fhir,stu3
+HealthIT,fhir.sitenv.org,https://fhir.sitenv.org/open/stu3/fhir,stu3
+HealthIT,fhir.sitenv.org,https://fhir.sitenv.org/secure/fhir,dstu2
+HealthIT,fhir.sitenv.org,https://fhir.sitenv.org/secure/fhir,stu3
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com,stu3
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com,stu3
+Valentia,Valentia,https://fhir.snochillies.com,dstu2
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com/metadata,stu3
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com/ValueSet/All/$expand?filter=Malaria,stu3
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com/ValueSet/All/$expand?filter=Malaria&_format=json,stu3
+snochillies,fhir.snochillies.com,https://fhir.snochillies.com/ValueSet/All/$expand?filter=Malaria&_format=null,stu3
+HealthIntersections,Health Intersections FHIR Server Conformance Statement,https://fhir2.healthintersections.com.au/closed,dstu2
+HealthIntersections,Health Intersections FHIR Server Conformance Statement,https://fhir2.healthintersections.com.au/closed,stu3
+HealthIntersections,Health Intersections,https://fhir3.healthintersections.com.au/closed,stu3
+Zeomega,fhirapi-jivainnovationlab.zeomega.com,https://fhirapi-jivainnovationlab.zeomega.com:8080/FHIR,stu3
+Advisory Board Company,The Advisory Board Company,https://fhirdemo.advisory.com/fhirapi,dstu2
+Advisory Board Company,The Advisory Board Company,https://fhirdemo.advisory.com/fhirapi,stu3
+HealthIT,fhirprod.direct.sitenv.org,https://fhirprod.direct.sitenv.org/hapi/fhir,dstu2
+HealthIT,fhirprod.direct.sitenv.org,https://fhirprod.direct.sitenv.org/hapi/fhir,stu3
+HealthIT,fhirprod.sitenv.org,https://fhirprod.sitenv.org/fhir,dstu2
+HealthIT,fhirprod.sitenv.org,https://fhirprod.sitenv.org/fhir,stu3
+HealthIT,fhirprod.sitenv.org,https://fhirprod.sitenv.org/hapi-resprint/fhir,dstu2
+HealthIT,ONC HIT - SITE  (https://sitenv.org),https://fhirprod.sitenv.org/hapi-resprint/fhir,stu3
+HealthIT,fhirprod.sitenv.org,https://fhirprod.sitenv.org/hapi/fhir,dstu2
+HealthIT,fhirprod.sitenv.org,https://fhirprod.sitenv.org/hapi/fhir,stu3
+T-System Inc.,T-System Inc.,https://fhirsandbox1.tsysinteropsvcs.net/sites/123,stu3
+T-System Inc.,fhirsandbox2.tsysinteropsvcs.net,https://fhirsandbox2.tsysinteropsvcs.net:8100/sites/123,stu3
+HealthIT,ONC Argonaut,https://fhirtest.direct.sitenv.org/hapi/fhir,dstu2
+HealthIT,ONC Argonaut,https://fhirtest.direct.sitenv.org/hapi/fhir,stu3
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org,dstu2
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org,stu3
+HealthIT,FHIRtest,https://fhirtest.sitenv.org/hapi-resprint/fhir,dstu2
+HealthIT,FHIRtest,https://fhirtest.sitenv.org/hapi-resprint/fhir,stu3
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org/hapi/fhir,dstu2
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org/hapi/fhir,dstu2
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org/hapi/fhir,stu3
+HealthIT,fhirtest.sitenv.org,https://fhirtest.sitenv.org/hapi/fhir,stu3
+HAPI,fhirtest.uhn.ca,https://fhirtest.uhn.ca/home?serverId=hapi_dev&pretty=true&resource=Library,dstu2
+HAPI,fhirtest.uhn.ca,https://fhirtest.uhn.ca/home?serverId=home_21&pretty=false,stu3
+Hackensack UMC,hackensack-prod,https://hackensack-prod.apigee.net/v2/fhi,dstu2
+Hackensack UMC,hackensack-prod,https://hackensack-prod.apigee.net/v2/fhi,stu3
+Apigee,Apigee Hello World,https://hospital-prod.apigee.net,dstu2
+Apigee,Apigee Hello World,https://hospital-prod.apigee.net,stu3
+IPS,IPS FHIR Server,https://ipsdemo.accentureanalytics.com/fhir/v1.0.0,stu3
+Carefluence,Carefluence,https://mmdrd.modulemd.com/carefluence.ioit/fhir,dstu2
+Carefluence,Carefluence,https://mmdrd.modulemd.com/carefluence.ioit/fhir,stu3
+Carefluence,Carefluence,https://mmdsap.modulemd.com/carefluence.ioit/fhir,dstu2
+TATRC,nat-p2-open,https://nat-p2.esp.tatrc.org/dod-restful-server/open/fhir,dstu2
+TATRC,nat-p2,https://nat-p2.esp.tatrc.org/dod-restful-server/open/fhir,stu3
+TATRC,nat-p2-secure,https://nat-p2.esp.tatrc.org/dod-restful-server/secure/fhir,dstu2
+NavHealth,NavHealth,https://navhealth-test.apigee.net/api/fhir,dstu2
+NavHealth,NavHealth,https://navhealth-test.apigee.net/api/fhir,stu3
+NavHealth,navhealth,https://navhealth.com/api/fhir,dstu2
+NavHealth,navhealth,https://navhealth.com/api/fhir,stu3
+NavHealth,NavHealth,https://navhealth.herokuapp.com/api/fhir,dstu2
+NavHealth,NavHealth,https://navhealth.herokuapp.com/api/fhir,stu3
+IGNORE,Dr. No,https://no.com,stu3
+Ontoserver,"The Australian e-Health Research Centre, CSIRO",https://ontoserver.csiro.au/baltimore,stu3
+open-api,open-api,https://open-api.fhir.me,dstu2
+open-api,open-api,https://open-api.fhir.me,stu3
+open-api,open-api,https://open-api.fhir.me/Patient/1032702,stu3
+Epic,Epic,https://open-ic.epic.com/Argonaut-Unsecure/api/FHIR/Argonaut,dstu2
+Epic,Epic,https://open-ic.epic.com/Argonaut-Unsecure/api/FHIR/Argonaut,stu3
+Epic,Epic,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,dstu2
+Epic,Epic Argonaut,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,dstu2
+Epic,Epic 2015,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,dstu2
+Epic,Epic 2015,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,stu3
+Epic,Epic Argonaut,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,stu3
+Epic,Epic,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut,stu3
+Epic,open-ic,https://open-ic.epic.com/Argonaut/api/FHIR/Argonaut/metadata,stu3
+Epic,open-ic,https://open-ic.epic.com/FHIR,dstu2
+Epic,open-ic,https://open-ic.epic.com/FHIR,stu3
+Epic,open-ic,https://open-ic.epic.com/FHIR-2016/api/FHIR/STU3,stu3
+Epic,Epic 2015,https://open-ic.epic.com/FHIR/api/FHIR/DSTU2,dstu2
+Epic,Epic 2015,https://open-ic.epic.com/FHIR/api/FHIR/DSTU2,stu3
+Epic,open-ic,https://open-ic.epic.com/FHIR/api/FHIR/DSTU2/,stu3
+Epic,open-ic,https://open-ic.epic.com/FHIR/api/FHIR/DSTU2/DocumentReference?patient=Tbt3KuCY0B5PSrJvCu2j-PlK.aiHsu2xUjUM8bWpetXoB,stu3
+Epic,open,https://open.epic.com,stu3
+Paragon,paragondevfhirwebapp,https://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net,dstu2
+Paragon,paragondevfhirwebapp,https://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir,dstu2
+Paragon,paragondevfhirwebapp,https://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir,stu3
+Paragon,Paragon-Dev,https://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/DSTU2,dstu2
+Paragon,Paragon-Dev,https://paragondevfhirwebapp.paragondevfhir.p.azurewebsites.net/fhir/2.16.840.1.113883.3.271.4094/DSTU2,stu3
+StreamlineMD,patientportal,https://patientportal.streamlinemd.com/SMDWebAPI/api/Home,stu3
+StreamlineMD,patientportal,https://patientportal.streamlinemd.com/SMDWebAPI/fhir,stu3
+Pele,pele,https://pele.herokuapp.com,stu3
+Pele,pele,https://pele.herokuapp.com/api/v1,dstu2
+Pele,pele,https://pele.herokuapp.com/api/v1,stu3
+Sync for Science,Not provided,https://portal.demo.syncfor.science/api/fhir,dstu2
+Sync for Science,Not provided,https://portal.demo.syncfor.science/api/fhir,stu3
+IGNORE,projectcrucible,https://projectcrucible.org/servers/57dd56fc6372755143000000,stu3
+IGNORE,projectcrucible,https://projectcrucible.org/servers/57dd8cca637275155b0a0000,stu3
+HSP Consortium,sandbox,https://sandbox.hspconsortium.org/bzitest,stu3
+HSP Consortium,secure-api4,https://secure-api4.hspconsortium.org/BZIBlueMix/open,dstu2
+HSP Consortium,HSP Consortium,https://secure-api4.hspconsortium.org/BZIBlueMix/open,stu3
+fhir widget one Template,fhir widget one Template,https://sheltered-headland-5396.herokuapp.com,dstu2
+fhir widget one Template,fhir widget one Template,https://sheltered-headland-5396.herokuapp.com,stu3
+simplifier,simplifier,https://simplifier.net,dstu2
+simplifier,simplifier,https://simplifier.net,stu3
+IGNORE,someexample,https://someexample.com,stu3
+Telstra Health,Telstra Health (sqlonfhir-ci),https://sqlonfhir-ci2.azurewebsites.net/fhir,dstu2
+HealthConnex,HealthConnex (secure),https://sqlonfhir-dstu2.azurewebsites.net/fhir,dstu2
+HealthConnex,HealthConnex (secure),https://sqlonfhir-dstu2.azurewebsites.net/fhir,stu3
+HealthConnex,HealthConnex (open),https://sqlonfhir-stu3.azurewebsites.net/fhir,stu3
+Telstra Health,Telstra Health (sqlonfhir3),https://sqlonfhir-stu3.azurewebsites.net/fhir,stu3
+Allscripts,Allscripts,https://tw171.open.allscripts.com/FHIR,dstu2
+Allscripts,tw171,https://tw171.open.allscripts.com/FHIR,stu3
+Allscripts,tw171,https://tw171.open.allscripts.com/FHIRAnon,stu3
+Surescripts,Surescripts,https://uiservice-beta.surescripts.net/ArgonautServer/fhir,stu3
+Valentia,Valentia,https://valentiafhirbeta.homecaremedical.co.nz/fhir,dstu2
+Valentia,Valentia,https://valentiafhirbeta.homecaremedical.co.nz/fhir,stu3
+Valentia,Valentia,https://valentiafhirbeta.homecaremedical.co.nz/fhir/devApp,dstu2
+Valentia,valentiafhirbeta,https://valentiafhirbeta.homecaremedical.co.nz/fhir/devtest,dstu2
+Valentia,Valentia,https://valentiafhirbeta.homecaremedical.co.nz/fhir/DSTU2,dstu2
+Valentia,Valentia,https://valentiafhirbetastu3.homecaremedical.co.nz/fhir/devAppSTU3,stu3
+Valentia,Valentia,https://valentiafhirbetastu3.homecaremedical.co.nz/fhir/STU3,stu3
+Carefluence,Carefluence,https://vayu.carefluence.com/Carefluence.ioit/fhir,stu3
+Tampa General Hospital,vc1e14ic,https://vc1e14ic.tgh.org/interconnect-fhir-poc/api/FHIR/DSTU2,dstu2
+Tampa General Hospital,vc1e14ic,https://vc1e14ic.tgh.org/interconnect-fhir-poc/api/FHIR/DSTU2/6,stu3
+Furore,vonk,https://vonk.furore.com,stu3
+VA,wmsapps,https://wmsapps.vaftl.us,dstu2
+VA,VA Cloud - SMART on FHIR,https://wmsapps.vaftl.us/api,dstu2
+VA,VA Cloud - SMART on FHIR,https://wmsapps.vaftl.us/api,stu3
+IGNORE,Veteran,Veteran,dstu2
+IGNORE,Veteran,Veteran,stu3
+IGNORE,https://fhir.hackensackumc.net:8080/humc-server/fhir,,dstu2
+IGNORE,https://fhir.hackensackumc.net:8080/humc-server/fhir,,stu3
